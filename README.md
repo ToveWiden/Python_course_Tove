@@ -1,9 +1,9 @@
-#Title 1
+# Title 1
 
-##Title 2
+## Title 2  
 Writing text of different formats is different I markdown compared to word. Markdown is like coding a regular text.
 
-###This is title 3
+### This is title 3  
 Showing a block of code can look like this:
 
     conda activate <my-environment>
